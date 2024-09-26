@@ -1,16 +1,13 @@
-## Hi there 👋
+## OH MY PC- Æ🚁🔥💯🗣️
 
-<!--
-**34-Pedro/34-Pedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Pedro Antônio Rubinec
 
-Here are some ideas to get you started:
+- Estou estudando na Alura;(https://www.alura.com.br)
+- Estou me desenvolvendo no JavaScript
+- \estou começando este ano
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### entra no meu código 🗣️
+
+pedro.rubinec@escola.pr.gov.br
+
+![](https://media1.tenor.com/m/v6L5_fVToWYAAAAC/get-out-angry.gif)
