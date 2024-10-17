@@ -1,4 +1,4 @@
-## OH MY PC- Æ🚁🔥💯🗣️
+## BOAS VINDAS AO MEU PERFIL 🗣️
 
 meu nome é Pedro Antônio Rubinec
 
